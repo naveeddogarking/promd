@@ -5,7 +5,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Secktor-Md
- * @author : @BK9dev <https://bk9.fun/>
+ * @author : @SamPandey001 
  * @description : Secktor,A Multi-functional whatsapp bot.
  **/
 
